@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## طريقة الاستخدام
 
-python wikift.py "<copied sentece>"  
+python wikift.py "<\copied sentece>"  
 
 راح يطبع لك النتيجة وينسخ لك الناتج اوتوماتيكيا بالجهاز
 
